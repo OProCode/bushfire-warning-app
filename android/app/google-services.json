@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057089330672",
+    "project_id": "fire-danger-rating-notifier",
+    "storage_bucket": "fire-danger-rating-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057089330672:android:80afff490b05b28e231135",
+        "android_client_info": {
+          "package_name": "com.bushfire_warning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRj3VQlRtvDTYoph5ZI5Xiuz2cCqHerg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
